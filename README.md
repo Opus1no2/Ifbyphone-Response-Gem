@@ -29,6 +29,9 @@ route.transfer(952457****)
 # Route to an IVR
 route.survo(1234)
 
+# Route to a voicemail
+route.voicemail(5555)
+
 # Gracefully end a call
 route.hangup
 
